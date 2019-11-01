@@ -1,0 +1,19 @@
+{
+    "name": "mcfarlow/pyaqrcode",
+    "description": "pay to qr code",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Marian Patak",
+            "email": "marian@patak.sk"
+        }
+    ],
+    "minimum-stability": "beta",
+    "autoload": {
+        "psr-4": {
+            "Mcfarlow\\Payqrcode\\": "src/"
+        }
+    },
+    "require": {}
+}
